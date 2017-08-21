@@ -36,7 +36,7 @@
     <meta http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="theme-color" content="#0097A7">
-    <meta name="author" content="John Doe">
+    <meta name="author" content="Joshua">
     <meta name="description" itemprop="description" content="">
     <meta name="keywords" content="">
 
@@ -108,7 +108,7 @@
     <!-- Import CSS & jQuery -->
     
         <style id="css/material.min.css"></style><script>if(typeof window.lsLoadCSSMaxNums === "undefined")window.lsLoadCSSMaxNums = 0;window.lsLoadCSSMaxNums++;lsloader.load("css/material.min.css","/css/material.min.css?fJTiM/K1J3dWIruo3pxtAw==",function(){if(typeof window.lsLoadCSSNums === "undefined")window.lsLoadCSSNums = 0;window.lsLoadCSSNums++;if(window.lsLoadCSSNums == window.lsLoadCSSMaxNums)document.documentElement.style.display="";})</script>
-        <style id="css/style.min.css"></style><script>if(typeof window.lsLoadCSSMaxNums === "undefined")window.lsLoadCSSMaxNums = 0;window.lsLoadCSSMaxNums++;lsloader.load("css/style.min.css","/css/style.min.css?oCSEO3ST+aEypEwttTDI9g==",function(){if(typeof window.lsLoadCSSNums === "undefined")window.lsLoadCSSNums = 0;window.lsLoadCSSNums++;if(window.lsLoadCSSNums == window.lsLoadCSSMaxNums)document.documentElement.style.display="";})</script>
+        <style id="css/style.min.css"></style><script>if(typeof window.lsLoadCSSMaxNums === "undefined")window.lsLoadCSSMaxNums = 0;window.lsLoadCSSMaxNums++;lsloader.load("css/style.min.css","/css/style.min.css?0fDZW2vsz0Bcsu1hF6Tjwg==",function(){if(typeof window.lsLoadCSSNums === "undefined")window.lsLoadCSSNums = 0;window.lsLoadCSSNums++;if(window.lsLoadCSSNums == window.lsLoadCSSMaxNums)document.documentElement.style.display="";})</script>
         
         
             <style>
@@ -327,7 +327,7 @@
     </div>
     <!-- Author Name & Date -->
     <div>
-        <strong>John Doe</strong>
+        <strong>Joshua</strong>
         <span>8月 15, 2017</span>
     </div>
 
@@ -433,71 +433,104 @@
 
                 
 
+                
+    				<! -- 添加捐赠图标 -->
+<style>
+.donate_bar {
+    text-align: center;
+    margin-top: 5%
+}
+
+.donate_bar a.btn_donate {
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: #FF6347;
+    -webkit-transition: background 0.4s;
+    -moz-transition: background 0.4s;
+    -o-transition: background 0.4s;
+    -ms-transition: background 0.4s;
+    transition: background 0.4s
+}
+
+.donate_bar a.btn_donate:hover {
+    background-color: #FF0000
+}
+
+.donate_bar .donate_txt {
+    display: block;
+    color: #9d9d9d;
+    font: 14px/2 "Microsoft Yahei"
+}
+.donate_bar.hidden{
+    display: none
+}
+
+.post-donate{
+    margin-top: 20px;
+}
+
+#donate_guide{
+    height: 210px;
+    width: 420px;
+    margin: 0 auto;
+}
+
+#donate_guide img{
+    height: 200px;
+    height: 200px;
+}
+
+
+</style>
+<div class ="post-donate">
+    <div id="donate_board" class="donate_bar center">
+        <a id="btn_donate" class="btn_donate" href="javascript:;" title="赏">赞赏支持</a>
+        <span class="donate_txt">
+           欣赏此文？求鼓励，求支持！
+        </span>
+        <br>
+      </div>  
+    <div id="donate_guide" class="donate_bar center hidden" >
+        <!-- 支付宝打赏图案 -->
+        <img src="/img/Alipay.jpg" alt="支付宝打赏">
+        <!-- 微信打赏图案 -->
+        <img src="/img/WeChatpay.jpg" alt="微信打赏">
+    </div>
+    <script type="text/javascript">
+        document.getElementById('btn_donate').onclick = function(){
+            $('#donate_guide').toggleClass('hidden');
+        }
+    </script>
+</div>
+<! -- 添加捐赠图标 -->
+				
+
                 <!-- Post Comments -->
                 
                     
-    <!-- 使用 DISQUS_CLICK -->
-<div id="disqus-comment">
-    <div id="disqus_thread"></div>
-
-<!-- add animation -->
-<style>
-	.disqus_click_btn {
-            line-height: 30px;
-            margin: 0;
-            min-width: 50px;
-            padding: 0 14px;
-            display: inline-block;
-            font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-            font-size: 14px;
-            font-weight: 400;
-            text-transform: uppercase;
-            letter-spacing: 0;
-            overflow: hidden;
-            will-change: box-shadow;
-            transition: box-shadow .2s cubic-bezier(.4, 0, 1, 1), background-color .2s cubic-bezier(.4, 0, .2, 1), color .2s cubic-bezier(.4, 0, .2, 1);
-            outline: 0;
-            cursor: pointer;
-            text-decoration: none;
-            text-align: center;
-            vertical-align: middle;
-            border: 0;
-            background: rgba(158, 158, 158, .2);
-            box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 3px 1px -2px rgba(0, 0, 0, .2), 0 1px 5px 0 rgba(0, 0, 0, .12);
-            color: #fff;
-            background-color: #757575;
-            text-shadow: 0
-        }
-</style>
-	
-<div class="btn_click_load"> 
-    <button class="disqus_click_btn">阅读评论（请确保 disqus 可以正常加载）</button>
+    <!-- 使用 来必力 -->
+<div id="livere-comment">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC8zMDI3Ni82ODMx">
+	<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+       if (typeof LivereTower === 'function') { return; }
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+	</script>
 </div>
-
-<script type="text/javascript">
-    var disqus_config = function () {
-        this.page.url = 'http://bingzhuwuhen.github.io/about/index.html';  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = 'http://bingzhuwuhen.github.io/about/index.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-</script>
-
-<script type="text/ls-javascript" id="disqus-lazy-load-script">
-    $('.btn_click_load').click(function() {  //click to load comments
-        (function() { // DON'T EDIT BELOW THIS LINE
-            var d = document;
-            var s = d.createElement('script');
-            s.src = '//bingzhuwuhen.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', + new Date());
-            (d.head || d.body).appendChild(s);
-        })();
-        $('.btn_click_load').css('display','none');
-    });
-</script>
-  	
-
 </div>
 <style>
-    #disqus-comment{
+    #livere-comment{
         background-color: #eee;
         padding: 2pc;
     }
@@ -546,7 +579,7 @@
 
     <!-- Sidebar Avatar -->
     <div class="sidebar-image">
-        <img src="/img/avatar.png" alt="John Doe's avatar">
+        <img src="/img/avatar.png" alt="Joshua's avatar">
     </div>
 
     <!-- Sidebar Email -->
@@ -609,7 +642,7 @@
             </a>
             <ul class="dropdown-menu">
                 <li>
-                <a class="sidebar_archives-link" href="/categories/灵梦录/">灵梦录<span class="sidebar_archives-count">1</span></a></li><li><a class="sidebar_archives-link" href="/categories/灵梦录/诗酒轩/">诗酒轩<span class="sidebar_archives-count">1</span></a></li><li><a class="sidebar_archives-link" href="/categories/灵梦录/诗酒轩/刀剑客/">刀剑客<span class="sidebar_archives-count">1</span></a></li><li><a class="sidebar_archives-link" href="/categories/灵梦录/诗酒轩/刀剑客/花月境/">花月境<span class="sidebar_archives-count">1</span></a></li><li><a class="sidebar_archives-link" href="/categories/灵梦录/诗酒轩/刀剑客/花月境/萌宠栈/">萌宠栈<span class="sidebar_archives-count">1</span></a></li><li><a class="sidebar_archives-link" href="/categories/灵梦录/诗酒轩/刀剑客/花月境/萌宠栈/运动集/">运动集<span class="sidebar_archives-count">1</span></a>
+                <a class="sidebar_archives-link" href="/categories/灵梦录/">灵梦录<span class="sidebar_archives-count">1</span></a>
             </ul>
         </li>
         
@@ -714,8 +747,8 @@ It will not impact the appearance and can give developers a lot of support :)
 
 -->
 
+        
     </div>
-
     <!-- Sidebar Image -->
     
 
@@ -861,8 +894,7 @@ It will not impact the appearance and can give developers a lot of support :)
 
 
 
-   <!-- 使用 DISQUS js 代码 -->
-
+   
 
 
 
