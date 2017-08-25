@@ -3,22 +3,155 @@
   
     
     <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>/2017/08/15/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+      <title><![CDATA[君の名は]]></title>
+      <url>/2017/08/21/your-name/</url>
+      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p>如果可以，我想重新认识一次，从你叫什么名字开始。</p>
+<p><hr><br><img src="http://ov7vtlpgn.bkt.clouddn.com/img/yourname/yourname2.jpg" alt="your name"></p>
+<h4 id="只要记住你的名字，不管你在世界的哪个地方，我一定会去见你。"><a href="#只要记住你的名字，不管你在世界的哪个地方，我一定会去见你。" class="headerlink" title="只要记住你的名字，不管你在世界的哪个地方，我一定会去见你。"></a>只要记住你的名字，不管你在世界的哪个地方，我一定会去见你。</h4><p><hr><br><img src="http://ov7vtlpgn.bkt.clouddn.com/img/yourname/yourname3.jpeg" alt="your name"></p>
+<h4 id="如果我们重逢，我一定勇敢牵你走。如果以后时间会吞没我们，你也要抓住我的手。"><a href="#如果我们重逢，我一定勇敢牵你走。如果以后时间会吞没我们，你也要抓住我的手。" class="headerlink" title="如果我们重逢，我一定勇敢牵你走。如果以后时间会吞没我们，你也要抓住我的手。"></a>如果我们重逢，我一定勇敢牵你走。如果以后时间会吞没我们，你也要抓住我的手。</h4><p><hr><br><img src="http://ov7vtlpgn.bkt.clouddn.com/img/yourname/dongtu1.gif" width="380" height="250"><img src="http://ov7vtlpgn.bkt.clouddn.com/img/yourname/dongtu2.gif" width="380" height="250"></p>
+<h4 id="无论哪天我会不会找到你，缘浅或灭都有一个人住进对方身体里。"><a href="#无论哪天我会不会找到你，缘浅或灭都有一个人住进对方身体里。" class="headerlink" title="无论哪天我会不会找到你，缘浅或灭都有一个人住进对方身体里。"></a>无论哪天我会不会找到你，缘浅或灭都有一个人住进对方身体里。</h4><p><hr><br><img src="http://ov7vtlpgn.bkt.clouddn.com/img/yourname/yourname1.jpg" alt="your name"></p>
+<h4 id="你心里有我，我中有你。我们在没有黑暗的地方相见。-​​​​"><a href="#你心里有我，我中有你。我们在没有黑暗的地方相见。-​​​​" class="headerlink" title="你心里有我，我中有你。我们在没有黑暗的地方相见。 ​​​​"></a>你心里有我，我中有你。我们在没有黑暗的地方相见。 ​​​​</h4><hr>
+
+<div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"autoplay":0,"theme":"#FADFA3","loop":1,"video":{"url":"http://ov7vtlpgn.bkt.clouddn.com/video/RADWIMPS%20-%20%E5%A4%A2%E7%81%AF%E7%B1%A0%20.mp4","pic":"http://ov7vtlpgn.bkt.clouddn.com/img/yourname/yourname5.jpg"},"danmaku":{"api":"http://dplayer.daoapp.io","id":"9E2E3368B56CDBB4","token":"tokendemo"}});</script><!-- dplayer used1 -->
 ]]></content>
       
         <categories>
             
-            <category> 灵梦录 </category>
+            <category> 风月境 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 动漫 </tag>
+            
+            <tag> 视频 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[用JQuery实现文章打赏弹窗功能]]></title>
+      <url>/2017/08/21/how-to-achieve-the-reward-function/</url>
+      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p>很多的博客的博主们都喜欢在每篇文章的底部加入一个打赏的功能，虽然不会有人真的给打赏一些小费，但它可以使博客的功能结构更加的丰富起来。况且读者是否打赏全凭个人心情决定，倘若你的文章勾勒出一点他/她的共鸣和感慨，那恭喜你，你已经有拥戴者了。</p>
+<h3 id="step-1：-查看打赏效果"><a href="#step-1：-查看打赏效果" class="headerlink" title="step 1： 查看打赏效果"></a>step 1： 查看打赏效果</h3><p>请点击该文字<a href="#tips">底部</a>滑到底部，查看打赏功能效果。以确保是否喜欢该效果，同时为了把握整个功能的全貌。</p>
+<h3 id="step-2：-编写打赏模块的代码"><a href="#step-2：-编写打赏模块的代码" class="headerlink" title="step 2： 编写打赏模块的代码"></a>step 2： 编写打赏模块的代码</h3><p><code>layout\_partial</code>下新建<code>donate.ejs</code>输入如下内容：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div></pre></td><td class="code"><pre><div class="line">&lt;div class=&quot;content&quot;&gt;</div><div class="line">	&lt;p&gt;</div><div class="line">		&lt;a href=&quot;javascript:void(0)&quot; class=&quot;dashang&quot; onclick=&quot;dashangToggle()&quot; title=&quot;打赏&quot;&gt;赞赏支持&lt;/a&gt;</div><div class="line">	&lt;/p&gt;</div><div class="line">	&lt;span class=&quot;donate_txt&quot;&gt;</div><div class="line">		&lt;%=theme.donate_message%&gt;</div><div class="line">    &lt;/span&gt;</div><div class="line">	&lt;div class=&quot;shang_box&quot;&gt;</div><div class="line">		&lt;a href=&quot;javascript:void(0)&quot; class=&quot;shang_close&quot; onclick=&quot;dashangToggle()&quot; title=&quot;关闭&quot;&gt;</div><div class="line">			&lt;img src=&quot;/img/close.jpg&quot;/&gt;</div><div class="line">		&lt;/a&gt;</div><div class="line">		&lt;div class=&quot;shang_tit&quot;&gt;</div><div class="line">			&lt;p&gt;&lt;%=theme.donate_message%&gt;&lt;/p&gt;</div><div class="line">		&lt;/div&gt;</div><div class="line">		&lt;div class=&quot;shang_payimg&quot;&gt;</div><div class="line">			&lt;img src=&quot;&lt;%- theme.alipay %&gt;&quot; alt=&quot;扫码支持&quot; title=&quot;扫一扫&quot; width=&quot;168px&quot; height=&quot;168px&quot;&gt;</div><div class="line">		&lt;/div&gt;</div><div class="line">		&lt;div class=&quot;pay_explain&quot;&gt;</div><div class="line">			扫码打赏，你说多少就多少</div><div class="line">		&lt;/div&gt;</div><div class="line">		&lt;div class=&quot;shang_payselect&quot;&gt;</div><div class="line">			&lt;label class=&quot;pay_item checked&quot; data-id=&quot;alipay&quot;&gt;</div><div class="line">				&lt;input class=&quot;radiobox&quot; name=&quot;Fruit&quot; type=&quot;radio&quot; checked&gt;</div><div class="line">				&lt;img src=&quot;/img/alipay.jpg&quot; alt=&quot;支付宝&quot;&gt;</div><div class="line">			&lt;/label&gt;</div><div class="line">			&lt;label class=&quot;pay_item&quot; data-id=&quot;weipay&quot;&gt;</div><div class="line">				&lt;input class=&quot;radiobox&quot; name=&quot;Fruit&quot; type=&quot;radio&quot;&gt;</div><div class="line">				&lt;img src=&quot;/img/wechat.jpg&quot; alt=&quot;微信支付&quot;&gt;</div><div class="line">			&lt;/label&gt;</div><div class="line">		&lt;/div&gt;</div><div class="line">	&lt;/div&gt;</div><div class="line">&lt;/div&gt;</div><div class="line">&lt;script src=&quot;/js/jquery.min.js&quot;&gt;&lt;/script&gt;</div><div class="line">&lt;script type=&quot;text/javascript&quot;&gt;</div><div class="line">$(function()&#123;</div><div class="line">$(&quot;.pay_item&quot;).click(function()&#123;</div><div class="line">    $(this).addClass(&apos;checked&apos;).siblings(&apos;.pay_item&apos;).removeClass(&apos;checked&apos;);</div><div class="line">    var dataid=$(this).attr(&apos;data-id&apos;);</div><div class="line">    if (dataid==&quot;alipay&quot;) &#123;</div><div class="line">        $(&quot;.shang_payimg img&quot;).attr(&quot;src&quot;,&quot;&lt;%- theme.alipay %&gt;&quot;);</div><div class="line">    &#125;;</div><div class="line">    if (dataid==&quot;weipay&quot;) &#123;</div><div class="line">        $(&quot;.shang_payimg img&quot;).attr(&quot;src&quot;,&quot;&lt;%- theme.wechatpay %&gt;&quot;);</div><div class="line">    &#125;;</div><div class="line">&#125;);</div><div class="line">&#125;);</div><div class="line">function dashangToggle()&#123;</div><div class="line">    $(&quot;.shang_box&quot;).slideToggle(&quot;fast&quot;);</div><div class="line">&#125;</div><div class="line">&lt;/script&gt;</div></pre></td></tr></table></figure></p>
+<p>其中第24行和第28行代码中插入的图片分别为<br><img src="http://ov7vtlpgn.bkt.clouddn.com/img/donate/alipay.jpg" alt="支付宝图标">和<img src="http://ov7vtlpgn.bkt.clouddn.com/img/donate/wechat.jpg" alt="微信图标"></p>
+<h3 id="step-3：-设置打赏模块的样式"><a href="#step-3：-设置打赏模块的样式" class="headerlink" title="step 3： 设置打赏模块的样式"></a>step 3： 设置打赏模块的样式</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div></pre></td><td class="code"><pre><div class="line">.content&#123;</div><div class="line">    margin:20px auto;</div><div class="line">    text-align: center;</div><div class="line">&#125;</div><div class="line">.shang_box&#123;</div><div class="line">    width:360px;</div><div class="line">    height: 375px;</div><div class="line">    border: 1px solid <span class="comment">#dedede;</span></div><div class="line">    background: <span class="comment">#fff;</span></div><div class="line">    border-radius: 10px;</div><div class="line">    padding: 10px;</div><div class="line">    position: fixed;</div><div class="line">    z-index: 1000;</div><div class="line">    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);</div><div class="line">    left:50%;</div><div class="line">    top:50%;</div><div class="line">    margin-left:-180px;</div><div class="line">    margin-top:-220px;</div><div class="line">    display: none;</div><div class="line">&#125;</div><div class="line">.dashang&#123;</div><div class="line">    border: none;</div><div class="line">    border-radius: 20px;</div><div class="line">    color: white;</div><div class="line">    padding: 10px 30px;</div><div class="line">    text-align: center;</div><div class="line">    text-decoration: none;</div><div class="line">    display: inline-block;</div><div class="line">    font-size: 16px;</div><div class="line">    background-color: <span class="comment">#FF6347;</span></div><div class="line">    -webkit-transition: background 0.4s;</div><div class="line">    -moz-transition: background 0.4s;</div><div class="line">    -o-transition: background 0.4s;</div><div class="line">    -ms-transition: background 0.4s;</div><div class="line">    transition: background 0.4s</div><div class="line">&#125;</div><div class="line">.dashang:hover &#123;</div><div class="line">    background-color: <span class="comment">#FF0000</span></div><div class="line">&#125;</div><div class="line">.dashang .donate_txt &#123;</div><div class="line">    display: block;</div><div class="line">    color: <span class="comment">#9d9d9d;</span></div><div class="line">    font: 14px/2 <span class="string">"Microsoft Yahei"</span></div><div class="line">&#125;</div><div class="line">.shang_box .shang_close&#123;</div><div class="line">    <span class="built_in">float</span>: right;</div><div class="line">    display: inline-block;</div><div class="line">&#125;</div><div class="line">.shang_tit&#123;</div><div class="line">    width: 100%;</div><div class="line">    height: 35px;</div><div class="line">    margin-top: 20px;</div><div class="line">    text-align: center;</div><div class="line">    line-height: 15px;</div><div class="line">    color: <span class="comment">#a3a3a3;</span></div><div class="line">    font-size: 16px;</div><div class="line">    font-weight: 700;</div><div class="line">&#125;</div><div class="line">.shang_payimg&#123;</div><div class="line">    width: 200px;</div><div class="line">    height: 200px;</div><div class="line">    padding: 10px;</div><div class="line">    border: 6px solid <span class="comment">#FF4500;</span></div><div class="line">    margin: 0 auto;</div><div class="line">    border-radius: 5px;</div><div class="line">&#125;</div><div class="line">.shang_payimg img&#123;</div><div class="line">    display: block;</div><div class="line">    text-align: center;</div><div class="line">&#125;</div><div class="line">.pay_explain&#123;</div><div class="line">    text-align: center;</div><div class="line">    margin: 10px auto;</div><div class="line">    font-size: 12px;</div><div class="line">    color: <span class="comment">#545454;</span></div><div class="line">&#125;</div><div class="line">.shang_payselect&#123;</div><div class="line">    text-align: center;</div><div class="line">    margin: 20px auto 0;</div><div class="line">    height: 40px;</div><div class="line">    width: 280px;</div><div class="line">&#125;</div><div class="line">.shang_payselect .pay_iten&#123;</div><div class="line">    cursor:pointer;</div><div class="line">    display: inline-block;</div><div class="line">    margin-right: 10px;</div><div class="line">&#125;</div><div class="line">.radiobox&#123;</div><div class="line">    width: 16px;</div><div class="line">    height: 16px;</div><div class="line">    margin-top: 5px;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>你可以选择将该样式代码添加到source\css\style.min.css中，也可以选择直接将该代码添加到step1中创建的denote.ejs中，此时记得加上<code>&lt;style type=&quot;text/css&quot;&gt;&lt;/style&gt;</code>标签</p>
+<h3 id="step-4：-将打赏模块整合到文章中"><a href="#step-4：-将打赏模块整合到文章中" class="headerlink" title="step 4： 将打赏模块整合到文章中"></a>step 4： 将打赏模块整合到文章中</h3><p>在<code>layout\post.ejs</code>中添加如下代码<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&lt;% <span class="keyword">if</span> (theme.donate)&#123; %&gt;</div><div class="line">    &lt;%- partial(<span class="string">'_partial/donate'</span>) %&gt;</div><div class="line">&lt;% &#125; %&gt;</div></pre></td></tr></table></figure></p>
+<h3 id="step-5：-编写配置文件"><a href="#step-5：-编写配置文件" class="headerlink" title="step 5： 编写配置文件"></a>step 5： <a name="tips">编写配置文件</a></h3><p>我们可以在_config.yml文件中关闭和打开打赏功能，自定义设置打赏文案，并设置打赏二维码图片路径<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#是否开启打赏功能</span></div><div class="line">donate: <span class="literal">true</span></div><div class="line"><span class="comment">#打赏文案</span></div><div class="line">donate_message: 欣赏此文？求鼓励，求支持！</div><div class="line"><span class="comment">#支付宝二维码路径</span></div><div class="line">alipay: /img/alipayimg.jpg</div><div class="line"><span class="comment">#微信支付二维码路径</span></div><div class="line">wechatpay: /img/weipayimg.jpg</div></pre></td></tr></table></figure></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 灵梦鉴 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> JQuery </tag>
+            
+            <tag> CSS </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[背灯和月就花阴 已是十年踪迹十年心]]></title>
+      <url>/2017/08/17/yishizhizun/</url>
+      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p>繁华声 遁入空门 折煞了世人<br>梦偏冷 辗转一生 情债又几本<br>        ……<br>痛直奔 一盏残灯 倾塌的山门<br>听青春 迎来笑声 羡煞许多人<br>那史册 温柔不肯 下笔都太狠</p>
+<p><hr><br><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div>
+		<script>
+			new APlayer({
+				element: document.getElementById("aplayer0"),
+				narrow: false,
+				autoplay: true,
+				showlrc: 0,
+				music: {
+					title: "烟花易冷",
+					author: "周杰伦",
+					url: "http://www.0dutv.com/plug/down/up2.php/1236062.mp3",
+					pic: "",
+				}
+			});
+		</script><br>今天想写一写《一世之尊》这本小说，一部我从书架上面删了又添加，添加了又删，如此反复几遍。之所以这样，因为对于从未接触过无限流，甚至有点讨厌无限流的人来说，这本书一开始想要读下去真是有些困难。然而这本书只是前期是无限流，而且由于书荒，这本书又经常出现在排行榜上，便索性又添加到书架读一读。最终把整本书读完，回顾我读小说的这些年，这本书可以称为神作。</p>
+<h2 id="书籍简介"><a href="#书籍简介" class="headerlink" title="书籍简介"></a>书籍简介</h2><p>我这一生，不问前尘，不求来世，只轰轰烈烈，快意恩仇，败尽各族英杰，傲笑六道神魔！</p>
+<h2 id="章节拣选"><a href="#章节拣选" class="headerlink" title="章节拣选"></a>章节拣选</h2><p>主角孟奇：经常被读者们戏称为“梦琪”、“萌妻”等携带粉粉少女气息的爱称，毫无的主角尊严。地球穿越众。从少林开始轮回，崛起于草莽，因战成名，以战养战，终是超脱宿命，有了布局下子的能力！！从蓄气，开窍，外景，宗师，法身，传说…一步一步，苏孟得到了很多帮助，也有了很多仇敌，最早的轮回小队，张远山，戚夏，江芷薇，小吃货，赵家皇子…还有那出场即狡诈诡异的顾小桑！！他多次点亮装逼技能，并且在各个轮回世界不知羞耻的使用技能，居然成功的留下“真定大师”“白衣神僧”等金光闪闪的称号，亮瞎了无数后人的狗眼。而在主世界江湖人称“雷刀狂僧”、“莽金刚”等硬汉的称号，总是让自认为是逍遥剑·惊神剑·红尘僧·白衣飘飘剑客的小孟同志心塞。而且他常常化身为吐槽狂魔，以居委会大妈自称帮助小伙伴们的各种爱情问题，心理问题等。这是老夫迄今为止见过最能装逼的主角。 但是他重情重义，知恩图报，侠肝义胆。他可以铁血真汉子，可以潇洒不羁如侠客，可以吟风弄月做迁客骚人，可以白衣成僧低讼佛经……虽然他有时脑残有时装逼有时猥琐，但是他活的有血有肉，他活出了一个真正的“侠”字！</p>
+<p>有人说，人成熟不过是一瞬间的事，人的苍老也是一瞬间的事。本书真正意义上的第一次高潮是孟奇被六道系统算计，顾小桑死在孟奇手上。自此，孟奇从一个性子跳脱、机灵搞笑的青年，变为倾塌山门后面十年枯坐、面容枯槁、难辨年纪的僧人。</p>
+<h3 id="第四卷-第四百零一章-绝刀烙印"><a href="#第四卷-第四百零一章-绝刀烙印" class="headerlink" title="第四卷 第四百零一章 绝刀烙印"></a>第四卷 第四百零一章 绝刀烙印</h3><div style="background-color:#F5F5F5">开天对无极！<br>宇宙大爆炸对混沌奇点！<br>挡住这一击就能遁往仙迹了！<br>眼前的虚空一下裂开，虚无也裂开了，顾小桑的无生指中断，提前收回，双手结印胸前，四周真空家乡忽地收缩，包裹住她，形成鸡子般的一点。<br>掌刀劈中了“真空家乡”，混沌缓慢裂开，附近光彩褪去，只留黑白，虚幻的时光长河凸显，静静流淌。<br>就在这时，孟奇感觉手下一空，混沌宁静的幽暗突兀消失，掌刀前方是顾小桑精致绝伦的脸庞，浓纤合度的身躯。<br>她眼中跳跃着灵动，竟然主动迎向了这开天辟地的一刀。<br>这……孟奇想要抽回力量，已然来之不及，时光缓慢，却无法逆转。<br>啪！掌刀斩中了顾小桑的身体，透体而过，打碎了元神。<br>顾小桑眼睛弯起，嘴角流出丝丝鲜血，古灵精怪至极。<br>孟奇元神仿佛一下被抽离，如梦似幻，不像处在真实当中，心里忽有念头冒出：<br>原来，从一开始就已经借助今生果唤醒了顾小桑。<br>原来，从一开始就是顾小桑“假扮”的无生老母在进攻自己。<br>难怪身为大能转世，竟然不用神兵……<br>难怪留给自己反击的机会……<br>为什么要这样……孟奇心中涌起了狂风巨浪，看着顾小桑缓缓倒下，倒入自己怀中，白衣倾城，天地似乎消失，一切慢得不可思议。<br>顾小桑抬起头，嘴角一片鲜红，古灵精怪一笑，几分凄然几分叹息：<br>“我挣扎过，我输了。”<br>双眼闭上，气息渐渐消散，如灯之灭。<br>我挣扎过，我输了……孟奇双眼忽地模糊，脑海里尽回荡着这句话。<br>我挣扎过，我输了……<br>冲和前辈也这么挣扎过，也输了……<br>重重枷锁在身，命不由人，身不由己，自己再是挣扎，也只是飞蛾扑火？<br>佳人在怀，身躯渐渐冰冷，血染一身，孟奇呆立虚空，双眼混乱而疯狂。<br>这时，六道轮回之主淡漠无情的声音响起：<br>“‘大罗妖女’顾小桑死于真定之手，死亡任务完成，奖励霸王绝刀之‘过去种种，烟消云散”和轮回符。“<br>“无极印在顾小桑手中，九印集齐，请返回炼制神兵。”<br>“实力增长达到瓶颈，任务间隔恢复正常，下次任务十年之后。”<br>声音入耳，话语在心，孟奇心灵轰的一下炸了，不甘，愤怒，沮丧，挫折，绝望和刻骨的痛恨凝成实质，冲入脑海。<br>牙齿紧咬，鲜血迸出，他眼前似有白裙精灵，俏立舟头，箫声悱恻，美目流转，似怨似乐，宜喜宜嗔问道：<br>“难道妾身得救相公百次千次，你才信我心意？<br>“啊！”<br>孟奇横抱顾小桑的尸体，仰天长啸，悲凉仇恨之情惊动两岸，猿声相应。<br>无法排解的情绪纷涌不休，长啸之中，孟奇视线越来越模糊，这时，忽然看到一位威武昂藏的雄伟男子出现，霸道高傲。<br>霸王绝刀的烙印！<br>他定定看着自己，霸道的眼神深处是同样的不甘、悲痛与仇恨，以及深深的寂寞。<br>是啊，寂寞。<br>二十年纵横间，谁能相伴？<br></div>
+
+
+<h3 id="第五卷-第二章-十年踪迹十年心"><a href="#第五卷-第二章-十年踪迹十年心" class="headerlink" title="第五卷 第二章 十年踪迹十年心"></a>第五卷 第二章 十年踪迹十年心</h3><div style="background-color:#F5F5F5">穿过倾塌的山门，走到殿前，映照着残灯昏黄的光芒，穆云乐有一种从黑夜走到了白日的感觉。<br>灯火并不明亮，在千里孤岭里显得渺小又孤独，眼前依旧有昏暗，有模糊，但与寺外的漆黑和倾盆的雨幕相比，它就分外温暖，分外宁静，分外光明，朵朵莲花蒙上了一层光晕，胜过沐浴阳光，让人油然而生“映日荷花别样红”的感叹。<br>笃，笃，笃……穆云乐的心境忽然变得宁和，出身浣花剑派的她向有诗情，似乎一下从“十步杀一人，千里不留行”的任侠豪情里来到了“背灯和月就花阴，已是十年踪迹十年心”的淡淡悲凉清净。<br>她脸色柔和，目光温柔，但内心警惕不见，抬起右手，打算敲门。<br>就在这时，摇摇欲坠的主殿之门吱呀一声打开，不知什么时候，木鱼声已然停止。<br>门后是位灰袍僧人—无—错—面容枯槁，难辨年纪，三十不错，四十亦可。<br>穆云乐怔了怔，这僧人看似普通憔悴，可细究之下，会发现他五官轮廓都很出众，年少时当是玉树临风的美男子，如今精神如同朽木，双眼有着难以掩饰的疲惫和倦怠。<br>这是一眼之间的判断，穆云乐能在二十出头便进入人榜前五，绝非浅薄之人，双手合十，声音清澈如同溪水：“深夜叨扰，还请大师勿要见怪，我等深夜遇雨，恐遇妖兽，又见贵寺灯火照亮黑暗，于是上门借宿，还请大师慈悲为怀。”<br>“阿弥陀佛，几位施主自便即可。”灰袍僧人还了一礼，语气平淡，话语简洁。<br>穆云乐目光越过灰袍僧人，看向殿中佛像。它乃石雕而成，低眉垂目，满是悲苦，在青灯照耀下染上了一层昏黄，反射着淡淡的光芒，有种难以言喻的灵性。<br>确实是苦行僧人所刻佛像，虔诚所至，自有几分佛性附着，能消弭凶意，只要不刻意招惹妖兽妖族。它们都会下意识远离此处……穆云乐做出了判断，这是可以借宿避雨之处。<br>最近十年以来，妖兽妖族活跃，荒郊野外的寺庙若是有僧残存，不是佛像自有灵性，便是僧人实力非凡，这里应当是前者。<br>她转过头，对梁九州和王同微微点头，示意可以入内。<br>“多谢大师。”梁九州和王同走近之后。行了一礼。<br>灰袍僧人没再说话，双手合十，缓缓转身，走到了佛像旁。盘腿坐下，身下是枯草，前方是破烂木鱼。<br>见状，穆云乐比普通女子略显粗黑的眉毛微皱。梁九州和王同亦是眼露疑惑，不为其他，而是灰袍僧人坐得很奇怪。正常而言，僧人不是面对便是背对佛像，他却是侧坐，正对左墙，墙上有一个大洞，洞外便是之前所见池塘，莲叶深碧近黑，花朵清新脱俗，出淤泥而不染、<br>而正因为这个大洞的存在，残灯光芒毫无阻碍照在了莲花之上。<br>“不见如来，却对莲花，行为怪异，是呵佛骂祖的禅宗僧人吗？”。王同传音穆云乐。<br>穆云乐却不是他这样的想法，精神融入天地，周围点点滴滴尽在心头，孤岭，独寺，残灯，除了这位灰袍僧人之外，此地无有他人生活的迹象，就连来往行人留下的痕迹都少。<br>一个人，一盏灯，一尊佛，一座庙，一池莲花，花开花落，他就这样“对”了不知多少时日？<br>心灵敏感，总有诗词的穆云乐似乎能够体会到那深深的寂寞，深深的孤单，再是清净再是古佛也掩盖不了的悲凉。<br>这样的和尚应当藏着一段不愿回首的往事吧？穆云乐突然有点同情，收回目光，找了位置盘腿坐下。<br>梁九州坐下后，吐纳了几次，微微笑道：“穆姑娘，王公子，多谢你们仗剑相助。”<br>“此乃我们分内之事。”穆云乐回答时又忍不住看了一眼那位灰袍僧人，他双眼半开半阖，神藏体内，不发一言，也没再敲动木鱼，坐在那里便像是与红尘隔绝。<br>梁九州点了点头，呵呵笑道：“穆姑娘之名，梁某人早有耳闻，如今有幸遇到，当真闻名不如见面。”<br>穆云乐颇有惊喜之意：“梁前辈，你这等外景强者也听过晚辈薄命？”<br>“当然，浣花剑派‘漱玉剑’穆云乐乃这一代人榜最出类拔萃的人物之一，与画眉山庄费苦禅、陪京曹氏曹补之并称，有‘三日争辉’之美名，梁某人哪会没听过？”说到这里，梁九州忍不住感慨了一声，“看着你们这等青春正盛的年轻才俊，总是分外叹老，老了，老了，江湖迟早是你们的……”<br>自己用了近四十年才成就外景，有了大侠之名，可对面少女稍有几分稚嫩，朝气逼人，已然天人合一，而且日后道路比自己好走许多，怎不起长江后浪推前浪，一代新人胜旧人之感。<br>穆云乐嘴角忍不住翘起，透出几分纯真，然后收敛表情，正色道：“梁前辈，武道之事哪有新人旧人之分，先达者为师，而且外景强者、法身高人寿元都远超开窍，或许几十年后，你还春秋鼎盛，让你感慨的后辈已然垂垂老矣了。”<br>“小姑娘真会说话。”梁九州哈哈笑道，似乎又被激起了豪迈之情，他转过头，对灰袍僧人客气道：“我等多有叨扰，还请大师勿要见怪，不知大师该如何称呼？”<br>“贫僧真定。”灰袍僧人言简意赅回答。<br>“多谢真定大师收留。”穆云乐还有少女心性，俏皮笑道，王同也跟着答谢。<br>梁九州怔了怔，微微笑道：“大师的法号与过去某位大侠相同，让梁某人一阵唏嘘。”<br>“哪位大侠？我怎么不知道？”穆云乐眼睛睁大，黑白分明。<br>王同亦是好奇道：“能让梁大侠称为大侠的，绝非寻常之辈，不知是哪位？”<br>梁九州笑了笑：“哎，记得他名字和绰号的很多，但还记得他曾经是少林弃徒，有法号真定的只有我这等老人了。”<br>“你们不要将他与我并称，在他面前，我哪敢称什么大侠，他鼎盛之时，侠肝义胆，义薄云天，天下皆受其恩，邪魔都惧其威，而那时我还只是路边听着他传闻的无名小卒，哎，生不逢时，真遗憾未能见过他。”<br>穆云乐眼神茫然，还是猜不出是谁，王同眼珠子转了转，似乎若有所思。<br>“好了，我先打坐疗伤，争取尽快恢复。”梁九州双手结印膝上，两眼闭拢，头顶又渐渐出现白雾缭绕。<br>穆云乐警戒四周，只见寺外雨声哗啦，雨水如织，打得莲叶滴滴答答，殿内则古佛残灯，灰袍孤僧，一时触景生怀，低声唱道：<br>“繁华声遁入空门，折煞了世人，梦偏冷辗转一生，情债有几本……痛直奔，一盏残灯，倾塌的山门……”<br>声音飘荡，说不尽的画意。<br>这时，她看见灰袍僧人转过头来，睁开了眼睛，声音低沉蕴含磁性：“这首歌是谁教你的？”<br>穆云乐抿嘴一笑：“乡曲俚词让大师见笑了，晚辈有幸见过真慧神僧，听他哼过，喜其意境，偷偷记住。”<br>“真慧神僧……”灰袍僧人真定怔了怔，正是孟奇，心中忽有感伤：<br>真慧都成神僧了，这十年过得好快，生死两茫茫……<br>穆云乐说完，不见真定大师回答，去见他转过身，重新敲起了木鱼，笃，笃，笃，而嘴巴微张，曲声回荡：“听青春，迎来笑声，羡煞许多人……”<br>花开花落已十年。<br>听青春迎来笑声……穆云乐怔住，只见残灯与灰袍僧人相背，外面云色漆黑，只有莲花盛放，曲声幽幽，意境悲凉。<br>此情此景，让她忽然痴了，低低念道：<br>“背灯和月就花阴，已是十年踪迹十年心。”<br>曲声平息，木鱼笃笃，低沉声音再起：<br>“烦恼落尽，红尘远离。”<br></div>
+
+<h2 id="闲言碎语"><a href="#闲言碎语" class="headerlink" title="闲言碎语"></a>闲言碎语</h2><p>读了这本小说，最值得的就是知道了纳兰容若的《虞美人·银床淅沥青梧老》<br><a style="font-family:华文行楷;font-size:20px;"><br>银床淅沥青梧老，屧粉秋蛩扫。采香行处蹙连钱，拾得翠翘何恨不能言。<br>回廊一寸相思地，落月成孤倚。背灯和月就花阴，已是十年踪迹十年心。</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 刀剑客 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 武侠 </tag>
+            
+            <tag> 玄幻小说 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[酒与月的诗情]]></title>
+      <url>/2017/08/16/wine/</url>
+      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="白酒，是对大自然的敬畏"><a href="#白酒，是对大自然的敬畏" class="headerlink" title="白酒，是对大自然的敬畏"></a>白酒，是对大自然的敬畏</h3><p>中国人讲究“人法地，地法天，天法道，道法自然”，酒就是粮食的魂魄，其中凝聚着多少中国人对生活的态度。祭祀大典上，中国人都会用一杯一杯的美酒祭告天地，酒成了中国人对信仰的一种礼赞。如果说西方的酒神文化是以果酒轻盈的香气和饱满的热情祭拜天神，那么中国的粮食酒就是以这样一种深沉、透彻的魂魄去回馈大地。在今天这种都市化的进程里，真正追本溯源，按照一年节序如流，让春夏秋冬从生命中穿过的生活方式越来越少。我仍然喜欢中国人说“沐春风而思飞扬，临秋云而思浩荡”。春秋往复能不能够找到一个载体呢？中国白酒为什么能够百年飘香？我想是因为白酒饱含着中国人对自然的敬畏。科学是一把双刃剑，在给我们带来便利的同时，也很容易让人因为依赖技术而轻易狂妄。中国白酒对于四时节序的严格遵守让其一直保持着“中国味道”。</p>
+<h3 id="白酒是伴随中国人一生的仪式"><a href="#白酒是伴随中国人一生的仪式" class="headerlink" title="白酒是伴随中国人一生的仪式"></a>白酒是伴随中国人一生的仪式</h3><p>葡萄酒的文化和白酒的文化是不同的，白酒几乎伴随了中国人一生的成长。家里小孩出生要喝满月酒，孩子长大周岁也要喝酒，孩子出去赶考的时候、大婚的时候……这一生要喝多少次酒？一生如此，一年亦是如此。春节到来的时候要喝屠苏酒，阳春、清明登高时也会喝酒，端午节要喝雄黄酒，中秋节要喝桂花酒，到了重阳节也要“把酒临风”。一年一生，中国人是离不开酒浆的。</p>
+<h3 id="白酒是一面关照人性的镜子"><a href="#白酒是一面关照人性的镜子" class="headerlink" title="白酒是一面关照人性的镜子"></a>白酒是一面关照人性的镜子</h3><p>说文解字》上说得好，“酒”是一个转音字，转自“迁就”的“就”，“酒者，就也，所以就人性之善恶也。”也就是说，我们很难单纯地说酒是个好东西，还是个坏东西，要看什么人来喝它。一个真正的豪迈侠义之人，他喝酒，“三杯吐然诺，五岳倒为轻”。那种忠肝赤胆，让酒越喝越好；但是一个小人，谄媚，勾心斗角，那么酒就有可能越喝越坏，甚至在中国古代政治的纷争中，用来毒杀人的也是鸩酒。<br>所以在今天，我们拥有这么多的酒，是否应该回头映照一下自己的性情？不要忘了许慎的那句话：“酒者，就也。所以就人性之善恶也。”今天可以选择的空间多了，但是，人的性情还会跟酒去融合吗？我们真的由酒去点燃我们之间的信任、人与人之间的敬重，让中国人的气质在酒香中发挥得更好吗？</p>
+<h3 id="白酒是流淌在中国人血液中的诗情"><a href="#白酒是流淌在中国人血液中的诗情" class="headerlink" title="白酒是流淌在中国人血液中的诗情"></a>白酒是流淌在中国人血液中的诗情</h3><p>《酒是点燃诗情的引子。从当年的曹孟德“横槊赋诗”，“慨当以慷，忧思难忘，何以解忧，唯有杜康”，那杯酒就摆在我们千古的梦想和诗情里。<br>我们都曾经跟着陶渊明去喝他田园里淡薄的酒，“既耕亦已种，时还读我书”，“欢言酌春酒，摘我园中蔬”。这是一种回归了恬淡的酒，他在酒中怡然自若。<br>我们也曾经跟着李太白喝他豪迈的酒。“人生飘忽百年内，且须酣畅万古情”。他说他自己无非是“长剑一杯酒，男儿方寸心”。李太白邀约千古明月，“今人不见古时月，今月曾经照古人。古人今人若流水,共看明月皆如此。 唯愿当歌对酒时，月光长照金樽里”。今天我们的樽中不缺酒了，但是缺月光。我们仍然缺一段月光相映的诗情。<br>到了苏东坡。他曾经“举杯邀明月”，他曾经“把酒问青天”，他曾经“一杯还酹江月”去感慨历史的沧桑。这些酒喝到今天，应该说，在一个极致繁华的物质时代里，我们除了更多酒的分类、酒的包装、酒的价格，还应该再问一问：酒里还有中国人的诗意吗？我们还是那个烂漫飞扬的民族吗？我们还有一把热热的血性来对抗今天世道的冷漠吗？我们在喝酒的时候，能不能让这个千年盛筵，让那些诗人的魂魄再回到我们的生命中呢？</p>
+<p>&emsp;&emsp;转载自：<a href="http://www.zynews.com.cn/llyt/ShowArticle.asp?ArticleID=51823" target="_blank" rel="external">中国酒文化赏析：中国酒文化“酒与月的诗情”！酒与酒文化</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 诗酒轩 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 酒 </tag>
+            
+            <tag> 诗 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/2017/08/15/hello-world/</url>
+      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p>第一天学C语言用的是Hello World，本小站出生自然也要喊一声Hello World! 哈哈</p>
+<p>本站分类入下</p>
+<h4 id="灵梦鉴"><a href="#灵梦鉴" class="headerlink" title="灵梦鉴"></a>灵梦鉴</h4><pre><code>收录灵感与梦想，IT方面的相关知识
+</code></pre><h4 id="诗酒轩"><a href="#诗酒轩" class="headerlink" title="诗酒轩"></a>诗酒轩</h4><pre><code>听说美酒与诗词最配
+</code></pre><h4 id="刀剑客"><a href="#刀剑客" class="headerlink" title="刀剑客"></a>刀剑客</h4><pre><code>收录武侠、仙侠、东方玄幻类的书籍总结推荐，并分享与之相关的影视音乐
+</code></pre><h4 id="风月境"><a href="#风月境" class="headerlink" title="风月境"></a>风月境</h4><pre><code>人生难得一场风花雪月，不管你有何种情绪，都可以在这里找到归宿
+</code></pre><h4 id="宠物栈"><a href="#宠物栈" class="headerlink" title="宠物栈"></a>宠物栈</h4><pre><code>日常吸猫、吸雪橇三傻、吸猪。。。，云养宠物等你打卡
+</code></pre><h4 id="运动集"><a href="#运动集" class="headerlink" title="运动集"></a>运动集</h4><pre><code>运动装备推荐阵地
+</code></pre>]]></content>
+      
+        <categories>
+            
+            <category> 灵梦鉴 </category>
             
         </categories>
         
@@ -26,8 +159,6 @@
         <tags>
             
             <tag> hello </tag>
-            
-            <tag> world </tag>
             
         </tags>
         

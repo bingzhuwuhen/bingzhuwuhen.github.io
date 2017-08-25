@@ -8,7 +8,7 @@
     
     <title>
         
-            tags | 
+            标签: 酒 | 
         
         Soul&amp;Dream
     </title>
@@ -63,7 +63,7 @@
     <!-- The Open Graph protocol -->
     <meta property="og:url" content="http://bingzhuwuhen.github.io">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="tags | Soul&amp;Dream">
+    <meta property="og:title" content="标签: 酒 | Soul&amp;Dream">
     <meta property="og:image" content="http://ov7vtlpgn.bkt.clouddn.com/img/logo/favicon.png" />
     <meta property="og:description" content="">
     
@@ -71,7 +71,7 @@
     
 
     <!-- The Twitter Card protocol -->
-    <meta name="twitter:title" content="tags | Soul&amp;Dream">
+    <meta name="twitter:title" content="标签: 酒 | Soul&amp;Dream">
     <meta name="twitter:description" content="">
     <meta name="twitter:image" content="http://ov7vtlpgn.bkt.clouddn.com/img/logo/favicon.png">
     <meta name="twitter:card" content="summary_large_image" />
@@ -79,7 +79,7 @@
 
     <!-- Add canonical link for SEO -->
     
-        <link rel="canonical" href="http://bingzhuwuhen.github.io/tags/index.html" />
+        <link rel="canonical" href="http://bingzhuwuhen.github.io/tags/酒/index.html" />
     
 
     <!-- Structured-data for SEO -->
@@ -273,64 +273,160 @@
                         </button>
                     
 
-                    <!-- Post TOC -->
+                    <!-- Index Module -->
+<div class="material-index mdl-grid">
+    
+    <div class="locate-thumbnail-symbol"></div>
 
 
-<!-- Layouts -->
-
-    <!-- Tags Cloud -->
-    <style>
-    #bottom{
-        position: relative;
-    }
-
-    @media screen and (max-width: 480px) {
-        .material-tagscloud{
-            margin: 6em 2em 0;
-        }
-    }
-
-    .material-tagscloud a{
-        text-decoration:none;
-        padding: 1px 9px;
-        margin: 9px 1px;
-        line-height: 40px;
-        white-space: nowrap;
-        transition: .6s;
-        opacity: .85;
-    }
-
-    .material-tagscloud a:hover{
-        transition: .6s;
-        opacity: 1;
-        background: #FAFAFA;
-        box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
-    }
-</style>
-
-<div class=" material-tagscloud">
-    <div class="material-post mdl-grid">
-        <a href="/tags/CSS/" style="font-size: 16px; color: #757575">CSS</a> <a href="/tags/JQuery/" style="font-size: 16px; color: #757575">JQuery</a> <a href="/tags/hello/" style="font-size: 16px; color: #757575">hello</a> <a href="/tags/动漫/" style="font-size: 16px; color: #757575">动漫</a> <a href="/tags/武侠/" style="font-size: 16px; color: #757575">武侠</a> <a href="/tags/玄幻小说/" style="font-size: 16px; color: #757575">玄幻小说</a> <a href="/tags/视频/" style="font-size: 16px; color: #757575">视频</a> <a href="/tags/诗/" style="font-size: 16px; color: #757575">诗</a> <a href="/tags/酒/" style="font-size: 16px; color: #757575">酒</a>
+    <!-- 音乐播放器 -->
+    <!DOCTYPE html>
+<link rel="stylesheet" href="/master/css/player.css">
+<div id="QPlayer">
+<div id="pContent">
+	<div id="player">
+		<span class="cover"></span>
+		<div class="ctrl">
+			<div class="musicTag marquee">
+				<strong>Title</strong>
+				 <span> - </span>
+				<span class="artist">Artist</span>
+			</div>
+			<div class="progress">
+				<div class="timer left">0:00</div>
+				<div class="contr">
+					<div class="rewind icon"></div>
+					<div class="playback icon"></div>
+					<div class="fastforward icon"></div>
+				</div>
+				<div class="right">
+					<div class="liebiao icon"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ssBtn">
+	        <div class="adf"></div>
     </div>
 </div>
+<ol id="playlist"></ol>
+</div>
 
+<script src="/master/js/jquery.min.js"></script>
+<script src="/master/js/jquery.marquee.min.js"></script>
 
-<script type="text/ls-javascript" id="page-tagcloud-script">
-    var adjustFooter = function() {
-        if( ($('#bottom').offset().top + $('#bottom').outerHeight() ) < $(window).height() ) {
-            var footerBottom = $(window).height() - $('#bottom').outerHeight() - $('#bottom').offset().top;
-            $('#bottom').css('bottom', '-' + footerBottom + 'px');
-        }
-    };
+<script>
+	var	playlist = [
+{title:"million reasons",artist:"Lady GaGa",mp3:"http://mp3.flash127.com/music/11567.mp3",cover:"http://ov7vtlpgn.bkt.clouddn.com/img/music/bg/millionreasons.jpg",},	
+{title:"Can't Help Falling in Love",artist:"Elvis Presley",mp3:"http://p2.music.126.net/EyHtAORjTU_H42LKLpjEcg==/2086873069529079.mp3",cover:"http://p3.music.126.net/cSvhoo3M8xDVOA6J5BiBGg==/1728432278863915.jpg?param=106x106",},
+{title:"回レ！雪月花",artist:"小倉唯",mp3:"http://devtest.qiniudn.com/回レ！雪月花.mp3",cover:"http://devtest.qiniudn.com/回レ！雪月花.jpg",},
+{title:"Mad World",artist:"Adam Lambert",mp3:"http://p2.music.126.net/FlGczNX1KXKfJKGdESpJMQ==/2002210674197433.mp3",cover:"http://p3.music.126.net/Scvgjpqap-i855331pQZxg==/1760318116076551.jpg?param=106x106",},
+{title:"For All Time",artist:"Michael Jackson",mp3:"http://p2.music.126.net/UMIJ9QjSJRbm7NTSUIlA_g==/5648191231957298.mp3",cover:"http://p3.music.126.net/nGFJF1DBUNUSvGHLkub8YQ==/2535473814012575.jpg?param=106x106",},
+{title:"贝加尔湖畔",artist:"李健",mp3:"http://p2.music.126.net/vXnnAZFGZ30g5eCK_ccnUA==/1207263767307060.mp3",cover:"http://p4.music.126.net/aSxiiy01L3Q35IqsaAUgvQ==/100055558133714.jpg?param=106x106",},
+{title:"TMD我爱你",artist:"李宇春",mp3:"http://p2.music.126.net/8EtdHYZd9GSQzGh3xo4ajw==/3187484209003594.mp3",cover:"http://p3.music.126.net/XMtajjQSdUXXGsFZvkRVgQ==/47279000006723.jpg?param=106x106",},
+{title:"风继续吹",artist:"张国荣",mp3:"http://p2.music.126.net/uLdeqTZsAdxRSW08wnM9gw==/7949469070463566.mp3",cover:"http://p4.music.126.net/5BhQJrnd5LsP78XSJI8q4Q==/2306775395096470.jpg?param=106x106",},
+{title:"我",artist:"张国荣",mp3:"http://p2.music.126.net/YrLqugQC1onbTHHW0dad-w==/1119302837084065.mp3",cover:"http://p3.music.126.net/Sbhanu6TSPEOq655lj34Gg==/98956046505532.jpg?param=106x106",},
+{title:"平凡之路",artist:"朴树",mp3:"http://p2.music.126.net/at0wmUoxoCMqDJbJt1QFeQ==/5935163767130356.mp3",cover:"http://p4.music.126.net/F2fqWwTTT2DAOKPQKQ-G0A==/5892282813545901.jpg?param=106x106",},
+{title:"Uptown Funk",artist:"Mark Ronson",mp3:"http://p2.music.126.net/ru4rRgSHFFixWfQZVtPSMQ==/3249056861081712.mp3",cover:"http://p4.music.126.net/G2nCsXpMc81lcUY-pOHr9Q==/2528876745541310.jpg?param=106x106",},
+];
+  var isRotate = true;
+  var autoplay = false;
+</script>
+<script src="/master/js/player.js"></script>
+<script>
 
-    $(document).ready(function() {
-        adjustFooter();
-    });
+function bgChange(){
+	var lis= $('.lib');
+	for(var i=0; i<lis.length; i+=2)
+	lis[i].style.background = 'rgba(246, 246, 246, 0.5)';
+}
+window.onload = bgChange;
 </script>
 
 
+    <!-- Pin on top -->
+    
 
+    <!-- Normal Post -->
+    
+        
+            
+                <!-- Paradox Thumbnail -->
+                <div class="post_entry-module mdl-card mdl-shadow--2dp mdl-cell mdl-cell--12-col fade out">
+    <!-- Post Thumbnail -->
+    
+        <!-- Custom Thumbnail -->
+        <div class="post_thumbnail-custom mdl-card__media mdl-color-text--grey-50 lazy" data-original="http://ov7vtlpgn.bkt.clouddn.com/img/thumbnail/jiu.jpg">
+    
 
+        <!-- Post Title -->
+        <p class="article-headline-p"><a href="/2017/08/16/wine/">酒与月的诗情</a></p>
+    </div>
+
+    <!-- Post Excerpt -->
+    <div class="mdl-color-text--grey-600 mdl-card__supporting-text post_entry-content">
+        
+             
+        
+        &nbsp;&nbsp;&nbsp;
+        <span>
+            <a href="/2017/08/16/wine/" target="_self">阅读全文</a>
+        </span>
+    </div>
+    <!-- Post_entry Info-->
+    <div id="post_entry-info">
+        <div id="post_entry-left-info" class="mdl-card__supporting-text meta mdl-color-text--grey-600 ">
+            <!-- Author Avatar -->
+            <div id="author-avatar">
+                <img src="http://ov7vtlpgn.bkt.clouddn.com/img/logo/avatar.png" width="44px" height="44px" alt="Joshua's avatar">
+            </div>
+            <div>
+                <strong>Joshua</strong>
+                <span>8月 16, 2017</span>
+            </div>
+        </div>
+        <div id="post_entry-right-info">
+            <!-- Category -->
+            <span class="post_entry-category">
+                <a class="post_category-link" href="/categories/诗酒轩/">诗酒轩</a>
+            </span>
+
+            
+
+            
+
+            <!-- Post Views -->
+            <span class="post_entry-views">
+            </span>
+        </div>
+    </div>
+</div>
+
+            
+            
+        
+    
+
+    
+
+    
+        <script type="text/ls-javascript" id="thumbnail-script">
+    var randomNum;
+
+    var locatePost = $('.locate-thumbnail-symbol').next();
+    for(var i = 0; i < 10; i++) {
+        randomNum = Math.floor(Math.random() * 19 + 1);
+
+        locatePost.children('.post_thumbnail-random').attr('id', 'random_thumbnail-'+randomNum);
+        locatePost.children('.post_thumbnail-random').attr('data-original', '/img/random/material-' + randomNum + '.png');
+    $('.post_thumbnail-random').addClass('lazy');
+
+        locatePost = locatePost.next();
+    }
+</script>
+
+    
+</div>
 
                     
                         <!-- Overlay For Active Sidebar -->
