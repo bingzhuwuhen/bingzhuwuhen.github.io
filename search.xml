@@ -3,6 +3,47 @@
   
     
     <entry>
+      <title><![CDATA[360度全景体验来袭]]></title>
+      <url>/2017/08/31/360-degree-panoramic-picture/</url>
+      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h4 id="你的名字"><a href="#你的名字" class="headerlink" title="你的名字"></a>你的名字</h4><p>图片来源：顾炎笙</p>
+<p><link rel="stylesheet" href="/css/360pic.css"></p>
+<p><div id="app"><br>    <div class="wrap" id="fullwrap"><br>        <div class="errors hid" id="errors"><br>            <div class="empty_failed"><br>                <p text-align:="" center="">暂无数据</p><br>            </div><br>        </div><br>    </div><br></div></p>
+<script>
+    var $render_data = [{
+    "ok": 1,
+    "msg": "全景图片信息获取成功",
+    "data": {
+        "img_url": "/img/yourname.jpg"
+    },
+    "cache": 0
+}][0] || {};
+</script>
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/panorama.js"></script>
+
+<p><hr><br><a href="https://pan.baidu.com/s/1gfAGHaz" target="_blank" rel="external">【360全景】你的名字下载地址</a><br><a href="http://www.bilibili.com/video/av13888176/" target="_blank" rel="external">【360全景绘画教程】新手向 五分钟学会画全景</a><br><a href="http://www.bilibili.com/video/av13730459/" target="_blank" rel="external">《你的名字》场景360全景绘制 过程</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 灵梦鉴 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 全景 </tag>
+            
+            <tag> 你的名字 </tag>
+            
+            <tag> 图片 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[惟草木之零落兮，恐美人之迟暮。]]></title>
       <url>/2017/08/29/chuci/</url>
       <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p>他是浪漫主义长河里最耀眼的灵魂，他是华美瑰丽长卷中最绚烂的篇章。<br>诗人余光中说，蓝墨水的上游是汨罗江。以屈原作品所代表的楚辞文学，是中国文人想象力源泉。<br>下面就是由清华美院鬼才陈丝雨为屈原和他的忧愁幽思执笔创作的楚辞系列画</p>
