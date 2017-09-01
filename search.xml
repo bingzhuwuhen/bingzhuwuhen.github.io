@@ -13,7 +13,7 @@
     "ok": 1,
     "msg": "全景图片信息获取成功",
     "data": {
-        "img_url": "/img/yourname.jpg"
+        "img_url": "http://ov7vtlpgn.bkt.clouddn.com/img/panorama/yourname.jpg"
     },
     "cache": 0
 }][0] || {};

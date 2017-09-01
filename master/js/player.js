@@ -232,7 +232,7 @@
 			    isFirstPlay = !isFirstPlay;
 			    localStorage.qplayer = 'false';
 			}
-			mA.css("transform", "translateX(250px)");
+			mA.css("transform", "translateX(-250px)");
 		    $('.ssBtn .adf').addClass('on');
 		} else {	
 			mA.css("transform", "translateX(0px)");
