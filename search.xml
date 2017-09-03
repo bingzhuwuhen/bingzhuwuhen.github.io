@@ -3,47 +3,6 @@
   
     
     <entry>
-      <title><![CDATA[看看什么效果]]></title>
-      <url>/2017/09/03/kankan/</url>
-      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h4 id="你的名字"><a href="#你的名字" class="headerlink" title="你的名字"></a>你的名字</h4><p>图片来源：顾炎笙<br>现在你可以滑动下面的图片，来查看360度全景。如果你的手机支持陀螺仪功能，你可以晃动你的手机查看全景。</p>
-<p><link rel="stylesheet" href="/css/360pic.css"></p>
-<p><div id="app"><br>    <div class="wrap" id="fullwrap"><br>        <div class="errors hid" id="errors"><br>            <div class="empty_failed"><br>                <p text-align:="" center="">暂无数据</p><br>            </div><br>        </div><br>    </div><br></div></p>
-<script>
-    var $render_data = [{
-    "ok": 1,
-    "msg": "全景图片信息获取成功",
-    "data": {
-        "img_url": "http://ov7vtlpgn.bkt.clouddn.com/img/panorama/yourname.jpg"
-    },
-    "cache": 0
-}][0] || {};
-</script>
-<script type="text/javascript" src="/js/main.js"></script>
-<script type="text/javascript" src="/js/panorama.js"></script>
-
-<p><hr><br><a href="https://pan.baidu.com/s/1gfAGHaz" target="_blank" rel="external">【360全景】你的名字下载地址</a><br><a href="http://www.bilibili.com/video/av13888176/" target="_blank" rel="external">【360全景绘画教程】新手向 五分钟学会画全景</a><br><a href="http://www.bilibili.com/video/av13730459/" target="_blank" rel="external">《你的名字》场景360全景绘制 过程</a></p>
-]]></content>
-      
-        <categories>
-            
-            <category> 灵梦鉴 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> 全景 </tag>
-            
-            <tag> 你的名字 </tag>
-            
-            <tag> 图片 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[360度全景体验来袭]]></title>
       <url>/2017/08/31/360-degree-panoramic-picture/</url>
       <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h4 id="你的名字"><a href="#你的名字" class="headerlink" title="你的名字"></a>你的名字</h4><p>图片来源：顾炎笙<br>现在你可以滑动下面的图片，来查看360度全景。如果你的手机支持陀螺仪功能，你可以晃动你的手机查看全景。</p>
