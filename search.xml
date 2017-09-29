@@ -5,7 +5,22 @@
     <entry>
       <title><![CDATA[大鱼海棠全景体验]]></title>
       <url>/2017/09/29/big-fish/</url>
-      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="大鱼海棠"><a href="#大鱼海棠" class="headerlink" title="大鱼海棠"></a>大鱼海棠</h3><p><link rel="stylesheet" href="/css/360pic.css"><br>图片来源：顾炎笙<br>现在你可以滑动下面的图片，来查看360度全景。如果你的手机浏览器允许，并且手机支持陀螺仪功能，你可以晃动你的手机查看全景。如在电脑浏览器上查看，IE、搜狗浏览器不支持360度全景。360、火狐、谷歌浏览器等支持</p>
+      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="大鱼海棠"><a href="#大鱼海棠" class="headerlink" title="大鱼海棠"></a>大鱼海棠</h3><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div>
+		<script>
+			new APlayer({
+				element: document.getElementById("aplayer0"),
+				narrow: false,
+				autoplay: true,
+				showlrc: 0,
+				music: {
+					title: "大鱼",
+					author: "周深",
+					url: "http://ov7vtlpgn.bkt.clouddn.com/music/%E5%91%A8%E6%B7%B1%20-%20%E5%A4%A7%E9%B1%BC.mp3",
+					pic: "",
+				}
+			});
+		</script>
+<p><link rel="stylesheet" href="/css/360pic.css"><br>图片来源：顾炎笙<br>现在你可以滑动下面的图片，来查看360度全景。如果你的手机浏览器允许，并且手机支持陀螺仪功能，你可以晃动你的手机查看全景。如在电脑浏览器上查看，IE、搜狗浏览器不支持360度全景。360、火狐、谷歌浏览器等支持</p>
 <p><div id="app"><div class="wrap" id="fullwrap"></div></div></p>
 <script>
     var $render_data = [{
@@ -34,9 +49,9 @@
             
             <tag> 全景 </tag>
             
-            <tag> 大鱼海棠 </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> 大鱼海棠 </tag>
             
         </tags>
         
@@ -74,9 +89,9 @@
             
             <tag> 全景 </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 你的名字 </tag>
+            
+            <tag> 图片 </tag>
             
         </tags>
         
@@ -181,10 +196,10 @@
       <title><![CDATA[背灯和月就花阴 已是十年踪迹十年心]]></title>
       <url>/2017/08/20/yishizhizun/</url>
       <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p>繁华声 遁入空门 折煞了世人<br>梦偏冷 辗转一生 情债又几本<br>        ……<br>痛直奔 一盏残灯 倾塌的山门<br>听青春 迎来笑声 羡煞许多人<br>那史册 温柔不肯 下笔都太狠</p>
-<p><hr><br><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div>
+<p><hr><br><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer0"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: true,
 				showlrc: 0,
