@@ -2,6 +2,10 @@
 <html style="display: none;" lang="zh">
     <head>
     <meta charset="utf-8">
+    <!--
+        © Material Theme
+        https://github.com/viosey/hexo-theme-material
+        Version: 1.4.0 -->
     <script>window.materialVersion = "1.4.0"</script>
 
     <!-- Title -->
@@ -104,7 +108,7 @@
     <!-- Import CSS & jQuery -->
     
         <style id="css/material.min.css"></style><script>if(typeof window.lsLoadCSSMaxNums === "undefined")window.lsLoadCSSMaxNums = 0;window.lsLoadCSSMaxNums++;lsloader.load("css/material.min.css","/css/material.min.css?fJTiM/K1J3dWIruo3pxtAw==",function(){if(typeof window.lsLoadCSSNums === "undefined")window.lsLoadCSSNums = 0;window.lsLoadCSSNums++;if(window.lsLoadCSSNums == window.lsLoadCSSMaxNums)document.documentElement.style.display="";})</script>
-        <style id="css/style.min.css"></style><script>if(typeof window.lsLoadCSSMaxNums === "undefined")window.lsLoadCSSMaxNums = 0;window.lsLoadCSSMaxNums++;lsloader.load("css/style.min.css","/css/style.min.css?skzzLJsQSquhxjp28OkPoQ==",function(){if(typeof window.lsLoadCSSNums === "undefined")window.lsLoadCSSNums = 0;window.lsLoadCSSNums++;if(window.lsLoadCSSNums == window.lsLoadCSSMaxNums)document.documentElement.style.display="";})</script>
+        <style id="css/style.min.css"></style><script>if(typeof window.lsLoadCSSMaxNums === "undefined")window.lsLoadCSSMaxNums = 0;window.lsLoadCSSMaxNums++;lsloader.load("css/style.min.css","/css/style.min.css?oCSEO3ST+aEypEwttTDI9g==",function(){if(typeof window.lsLoadCSSNums === "undefined")window.lsLoadCSSNums = 0;window.lsLoadCSSNums++;if(window.lsLoadCSSNums == window.lsLoadCSSMaxNums)document.documentElement.style.display="";})</script>
         
         
             <style>
@@ -278,8 +282,6 @@
     
     <div class="locate-thumbnail-symbol"></div>
 
-
-    
     <!-- Pin on top -->
     
 
@@ -292,7 +294,7 @@
     <!-- Post Thumbnail -->
     
         <!-- Custom Thumbnail -->
-        <div class="post_thumbnail-custom mdl-card__media mdl-color-text--grey-50 lazy" data-original="http://ov7vtlpgn.bkt.clouddn.com/img/thumbnail/%E4%B8%80%E4%B8%96%E4%B9%8B%E5%B0%8A.jpg">
+        <div class="post_thumbnail-custom mdl-card__media mdl-color-text--grey-50 lazy" data-original="http://soulanddream.test.upcdn.net/image/onelife.jpg">
     
 
         <!-- Post Title -->
@@ -362,73 +364,8 @@
 </script>
 
     
-
-    <!-- 音乐播放器 -->
-    <!DOCTYPE html>
-<link rel="stylesheet" href="/master/css/player.css">
-<div id="QPlayer">
-<div id="pContent">
-	<div id="player">
-		<span class="cover"></span>
-		<div class="ctrl">
-			<div class="musicTag marquee">
-				<strong>Title</strong>
-				 <span> - </span>
-				<span class="artist">Artist</span>
-			</div>
-			<div class="progress">
-				<div class="timer left">0:00</div>
-				<div class="contr">
-					<div class="rewind icon"></div>
-					<div class="playback icon"></div>
-					<div class="fastforward icon"></div>
-				</div>
-				<div class="right">
-					<div class="liebiao icon"></div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="ssBtn">
-	        <div class="adf"></div>
-    </div>
-</div>
-<ol id="playlist"></ol>
 </div>
 
-<script src="/master/js/jquery.min.js"></script>
-<script src="/master/js/jquery.marquee.min.js"></script>
-
-<script>
-	var	playlist = [
-{title:"million reasons",artist:"Lady GaGa",mp3:"http://ov7vtlpgn.bkt.clouddn.com/music/millionreasons.mp3",cover:"http://ov7vtlpgn.bkt.clouddn.com/img/music/bg/millionreasons.jpg",},	
-{title:"Can't Help Falling in Love",artist:"Elvis Presley",mp3:"http://p2.music.126.net/EyHtAORjTU_H42LKLpjEcg==/2086873069529079.mp3",cover:"http://p3.music.126.net/cSvhoo3M8xDVOA6J5BiBGg==/1728432278863915.jpg?param=106x106",},
-{title:"回レ！雪月花",artist:"小倉唯",mp3:"http://devtest.qiniudn.com/回レ！雪月花.mp3",cover:"http://devtest.qiniudn.com/回レ！雪月花.jpg",},
-{title:"Mad World",artist:"Adam Lambert",mp3:"http://p2.music.126.net/FlGczNX1KXKfJKGdESpJMQ==/2002210674197433.mp3",cover:"http://p3.music.126.net/Scvgjpqap-i855331pQZxg==/1760318116076551.jpg?param=106x106",},
-{title:"For All Time",artist:"Michael Jackson",mp3:"http://p2.music.126.net/UMIJ9QjSJRbm7NTSUIlA_g==/5648191231957298.mp3",cover:"http://p3.music.126.net/nGFJF1DBUNUSvGHLkub8YQ==/2535473814012575.jpg?param=106x106",},
-{title:"贝加尔湖畔",artist:"李健",mp3:"http://p2.music.126.net/vXnnAZFGZ30g5eCK_ccnUA==/1207263767307060.mp3",cover:"http://p4.music.126.net/aSxiiy01L3Q35IqsaAUgvQ==/100055558133714.jpg?param=106x106",},
-{title:"TMD我爱你",artist:"李宇春",mp3:"http://p2.music.126.net/8EtdHYZd9GSQzGh3xo4ajw==/3187484209003594.mp3",cover:"http://p3.music.126.net/XMtajjQSdUXXGsFZvkRVgQ==/47279000006723.jpg?param=106x106",},
-{title:"风继续吹",artist:"张国荣",mp3:"http://p2.music.126.net/uLdeqTZsAdxRSW08wnM9gw==/7949469070463566.mp3",cover:"http://p4.music.126.net/5BhQJrnd5LsP78XSJI8q4Q==/2306775395096470.jpg?param=106x106",},
-{title:"我",artist:"张国荣",mp3:"http://p2.music.126.net/YrLqugQC1onbTHHW0dad-w==/1119302837084065.mp3",cover:"http://p3.music.126.net/Sbhanu6TSPEOq655lj34Gg==/98956046505532.jpg?param=106x106",},
-{title:"平凡之路",artist:"朴树",mp3:"http://p2.music.126.net/at0wmUoxoCMqDJbJt1QFeQ==/5935163767130356.mp3",cover:"http://p4.music.126.net/F2fqWwTTT2DAOKPQKQ-G0A==/5892282813545901.jpg?param=106x106",},
-{title:"Uptown Funk",artist:"Mark Ronson",mp3:"http://p2.music.126.net/ru4rRgSHFFixWfQZVtPSMQ==/3249056861081712.mp3",cover:"http://p4.music.126.net/G2nCsXpMc81lcUY-pOHr9Q==/2528876745541310.jpg?param=106x106",},
-];
-  var isRotate = true;
-  var autoplay = false;
-</script>
-<script src="/master/js/player.js"></script>
-<script>
-
-function bgChange(){
-	var lis= $('.lib');
-	for(var i=0; i<lis.length; i+=2)
-	lis[i].style.background = 'rgba(246, 246, 246, 0.5)';
-}
-window.onload = bgChange;
-</script>
-
-
-</div>
 
                     
                         <!-- Overlay For Active Sidebar -->
@@ -611,8 +548,8 @@ It will not impact the appearance and can give developers a lot of support :)
 
 -->
 
-        
     </div>
+
     <!-- Sidebar Image -->
     
 
@@ -695,7 +632,20 @@ It will not impact the appearance and can give developers a lot of support :)
 
         <!-- Paradox Footer Right Section -->
 
+        <!--
+        I am glad you use this theme, the development is no so easy, I hope you can keep the copyright.
+        It will not impact the appearance and can give developers a lot of support :)
 
+        很高兴您使用该主题，开发不易，希望您可以保留一下版权声明。
+        它不会影响美观并可以给开发者很大的支持。 :)
+        -->
+
+        <div class="mdl-mini-footer--right-section">
+            <div>
+                <div class="footer-develop-div">Powered by <a href="https://hexo.io" target="_blank" class="footer-develop-a">Hexo</a></div>
+                <div class="footer-develop-div">Theme - <a href="https://github.com/viosey/hexo-theme-material" target="_blank" class="footer-develop-a">Material</a></div>
+            </div>
+        </div>
     
 </footer>
 
@@ -800,6 +750,7 @@ It will not impact the appearance and can give developers a lot of support :)
             lsloader.runInlineScript(item.id,item.id);
         }
     })()
+console.log('\n %c © Material Theme | Version: 1.4.0 | https://github.com/viosey/hexo-theme-material %c \n', 'color:#455a64;background:#e0e0e0;padding:5px 0;border-top-left-radius:5px;border-bottom-left-radius:5px;', 'color:#455a64;background:#e0e0e0;padding:5px 0;border-top-right-radius:5px;border-bottom-right-radius:5px;');
 </script>
 
                 </main>
