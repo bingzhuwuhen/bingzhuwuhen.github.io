@@ -190,10 +190,10 @@
     <entry>
       <title><![CDATA[大鱼海棠全景体验]]></title>
       <url>/2017/09/29/big-fish/</url>
-      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="大鱼海棠"><a href="#大鱼海棠" class="headerlink" title="大鱼海棠"></a>大鱼海棠</h3><div id="aplayer17" class="aplayer" style="margin-bottom: 20px;"></div>
+      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="大鱼海棠"><a href="#大鱼海棠" class="headerlink" title="大鱼海棠"></a>大鱼海棠</h3><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer17"),
+				element: document.getElementById("aplayer0"),
 				narrow: false,
 				autoplay: true,
 				showlrc: 0,
@@ -212,7 +212,7 @@
     "ok": 1,
     "msg": "全景图片信息获取成功",
     "data": {
-        "img_url": "https://soulndream-1301007501.cos.ap-beijing.myqcloud.com/panorama/bigfish5.jpg"
+        "img_url": "bigfish.jpg"
     },
     "cache": 0
 }][0] || {};
@@ -243,7 +243,7 @@
     </entry>
     
     <entry>
-      <title><![CDATA[360度全景体验来袭]]></title>
+      <title><![CDATA[360度全景体验来袭--你的名字]]></title>
       <url>/2017/08/31/360-degree-panoramic-picture/</url>
       <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="你的名字"><a href="#你的名字" class="headerlink" title="你的名字"></a>你的名字</h3><p><link rel="stylesheet" href="/css/360pic.css"><br>图片来源：顾炎笙<br>现在你可以滑动下面的图片，来查看360度全景。如果你的手机支持陀螺仪功能，你可以晃动你的手机查看全景。</p>
 <p><link rel="dns-prefetch" href="//h5.sinaimg.cn"></p>
@@ -253,9 +253,8 @@
     "ok": 1,
     "msg": "全景图片信息获取成功",
     "data": {
-        "img_url": "https://soulndream-1301007501.cos.ap-beijing.myqcloud.com/panorama/yourname.jpg"
+        "img_url": "yourname2.jpg"
     },
-    crossDomain:true,
     "cache": 0
 }][0] || {};
 </script>
