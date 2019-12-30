@@ -1,8 +1,11 @@
- var fullwrap = document.getElementById('fullwrap');
+var fullwrap = document.getElementById('fullwrap');
     var picArr = [];
     if ($render_data && $render_data.data && $render_data.data.img_url) {
         var img = new Image();
+        // img.src = $render_data.data.img_url;
         var img_url = $render_data.data.img_url;
+        img.className = 'hid';
+        img.crossOrigin = '';
         img.src = img_url;
         fullwrap.appendChild(img);
         if (img.complete) {
@@ -49,3 +52,7 @@
             fullwrap.classList = 'wrap';
         }
     }
+
+    /* document.getElementById('back').onclick = function () {
+        window.history.back();
+    }*/
