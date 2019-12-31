@@ -115,10 +115,10 @@
       <url>/2017/10/28/voiceofdream2_01/</url>
       <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p>梦想的声音2终于开播了，以前总是在微博上面写乐评，由于有字数的限制，写的不是很尽兴。现在有了自己的专属地盘，总算可以展开手脚了。</p>
 <p><hr></p>
-<h2 id="浮生未歇–张靓颖"><a href="#浮生未歇–张靓颖" class="headerlink" title="浮生未歇–张靓颖"></a>浮生未歇–张靓颖</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"></div>
+<h2 id="浮生未歇–张靓颖"><a href="#浮生未歇–张靓颖" class="headerlink" title="浮生未歇–张靓颖"></a>浮生未歇–张靓颖</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer0"),
 				narrow: false,
 				autoplay: true,
 				showlrc: 0,
@@ -131,10 +131,10 @@
 			});
 		</script>
 <p>&emsp;&emsp;无论是在节目直播中还是音乐软件的音频中，我都听到了陶笛演奏者的吸气声。然而我想说这种吸气声是整个歌曲的一部分，因为它自然，即便你闭上眼也能看见这位吹笛人的演奏。陶笛声结束，吉他进来，接着古琴也进来（古琴的加入真的是给我惊喜，但我觉得应该是键盘做出来的模拟音），这所有营造出的静谧以及特别淡的忧伤氛围，引出“谁家的笛声渐响渐远”，“响过浮生多少年”伴随着风声，就好像乘着时间的风从耳边刮过，你又度过了不知多少岁月。。。最喜欢副歌的旋律和张靓颖的处理方式，“不如相忘于尘世间”中的不舍、无奈、痛楚以及放手被张靓颖通过气声的脆弱感和高音那种拉扯不断的韧劲表现得淋漓尽致（其他的就不具体说了，自己体会）。<br>&emsp;&emsp;张靓颖不选竹笛而选陶笛，我觉得是非常明智之举。因为在乐团呆了太长的时间，有时真的觉得竹笛的烟火气息太盛，古人常说“丝竹”，所以我总是联想起古代宫廷的乐队，以至于觉得虽然它悠扬但是却有一种俗气。而陶笛它自身带有的忧伤气息注定不会出现在所有曲子中，这就显得物以稀为贵。<br>&emsp;&emsp;之前张靓颖的一首古风歌曲《思美人》，我批评歌词像高一学生写的（现在觉得还是觉得有点抬举这位作词人），不只是歌词押韵牵强，词和曲在一起也生硬。评论在QQ音乐上面，之后很多人怼回来，我依旧不删评论，也有人举报，也不知道有没有被审核员给删掉,想来应该是被删掉了，因为应该会有很多人举报我的评论，毕竟他们见不得有人说不好的。<br>&emsp;&emsp;然而我觉得这次这首古风歌曲《浮生未歇》无论从编曲上面，还是歌词都比《思美人》高出不止一个高度。《浮生未歇》这首歌完整性相当好，音乐性上面嗓音彰显歌曲，歌词和编曲相互融合，可以说是歌声、旋律、歌词上面有个很高的统一。而且张靓颖的歌声在节目直播中表现得也特别优秀，和音乐软件中的音频文件对比相差不大。</p>
-<h2 id="至少还有你–林俊杰"><a href="#至少还有你–林俊杰" class="headerlink" title="至少还有你–林俊杰"></a>至少还有你–林俊杰</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"></div>
+<h2 id="至少还有你–林俊杰"><a href="#至少还有你–林俊杰" class="headerlink" title="至少还有你–林俊杰"></a>至少还有你–林俊杰</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer2"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 0,
@@ -147,10 +147,10 @@
 			});
 		</script>
 <p>&emsp;&emsp;林俊杰还真是人气担当和流量担当，看梦想的声音2，除了林俊杰唱歌时IPTV出现卡顿之外，整个过程都流畅的毫无压力。林俊杰唱歌时候，卡的不要不要的，以至于看直播时，并没有听到完整版的《至少还有你》。再来听音频，JJ还是一如既往的优秀。</p>
-<h2 id="绿光–林忆莲"><a href="#绿光–林忆莲" class="headerlink" title="绿光–林忆莲"></a>绿光–林忆莲</h2><div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"></div>
+<h2 id="绿光–林忆莲"><a href="#绿光–林忆莲" class="headerlink" title="绿光–林忆莲"></a>绿光–林忆莲</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer3"),
+				element: document.getElementById("aplayer2"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 0,
@@ -190,10 +190,10 @@
     <entry>
       <title><![CDATA[大鱼海棠全景体验]]></title>
       <url>/2017/09/29/big-fish/</url>
-      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="大鱼海棠"><a href="#大鱼海棠" class="headerlink" title="大鱼海棠"></a>大鱼海棠</h3><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div>
+      <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="大鱼海棠"><a href="#大鱼海棠" class="headerlink" title="大鱼海棠"></a>大鱼海棠</h3><div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer0"),
+				element: document.getElementById("aplayer3"),
 				narrow: false,
 				autoplay: true,
 				showlrc: 0,
