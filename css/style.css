@@ -522,7 +522,7 @@ a {
     min-height: 400px;
     flex-direction: column;
     align-items: stretch;
-    border-radius: 2px;
+    border-radius: 20px;
 }
 @media screen and (max-width: 480px) {
     #scheme-Paradox .material-post .mdl-card {
@@ -648,8 +648,8 @@ a {
     height: 10pc
 }
 #scheme-Paradox .material-layout .something-else .mdl-card__supporting-text {
-    border-bottom-right-radius: 2px;
-    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
     background-color: #f5f5f5
 }
 #scheme-Paradox .material-layout .material-post>.material-nav,
@@ -1770,6 +1770,10 @@ a {
     opacity: 0;
     background: #000;
     z-index: 9;
+    transition-duration: .8s;
+    -moz-transition-duration: .8s; /* Firefox 4 */
+    -webkit-transition-duration: .8s; /* Safari 和 Chrome */
+    -o-transition-duration: .8s; /* Opera */
     -webkit-transition: visibility 0 linear .4s, opacity .4s cubic-bezier(.4, 0, .2, 1);
     -moz-transition: visibility 0 linear .4s, opacity .4s cubic-bezier(.4, 0, .2, 1);
     transition: visibility 0 linear .4s, opacity .4s cubic-bezier(.4, 0, .2, 1);
@@ -1782,9 +1786,13 @@ a {
 .sidebar-overlay.active {
     opacity: .5;
     visibility: visible;
+    transition-duration: .8s;
     -webkit-transition-delay: 0;
     -moz-transition-delay: 0;
-    transition-delay: 0
+    transition-delay: 0;
+    -moz-transition-duration: .8s; /* Firefox 4 */
+    -webkit-transition-duration: .8s; /* Safari 和 Chrome */
+    -o-transition-duration: .8s; /* Opera */
 }
 .top-bar {
     height: 25px
@@ -1812,13 +1820,14 @@ a {
     vertical-align: top;
     position: relative;
     display: block;
-    min-height: 100%;
+    /*min-height: 100%;*/
     overflow-y: auto;
     overflow-x: hidden;
     border: none;
-    -webkit-transition: all .5s cubic-bezier(.55, 0, .1, 1);
-    -o-transition: all .5s cubic-bezier(.55, 0, .1, 1);
-    transition: all .5s cubic-bezier(.55, 0, .1, 1)
+    border-radius: 15px;
+    -webkit-transition: all .6s cubic-bezier(0.23, 0.32, 0.1, 1);
+    -o-transition: all .6s cubic-bezier(0.23, 0.32, 0.1, 1);
+    transition: all .6s cubic-bezier(0.23, 0.32, 0.1, 1);
 }
 .sidebar .sidebar-toggle:after,
 .sidebar .sidebar-toggle:before,
@@ -2165,6 +2174,7 @@ a {
     position: fixed;
     top: 0;
     bottom: 0;
+    margin: 15px;
     z-index: 10;
     left: 0;
     box-shadow: 2px 0 15px rgba(0, 0, 0, .35);
